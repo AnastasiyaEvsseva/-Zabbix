@@ -8,4 +8,5 @@
 3. Пользуясь конфигуратором команд с официального сайта, составьте набор команд для установки последней версии Zabbix с поддержкой PostgreSQL и Apache.
 4. Выполните все необходимые команды для установки Zabbix Server и Zabbix Web Server.
    
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/f3553d7d-2c2e-4b39-b96a-2fad1bdef137)
 
