@@ -9,4 +9,38 @@
 4. Выполните все необходимые команды для установки Zabbix Server и Zabbix Web Server.
    
 ![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/f3553d7d-2c2e-4b39-b96a-2fad1bdef137)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/52850c9c-b7f9-4ab2-ad2c-4f79c4b2d000)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/2150a2fd-4a70-41a6-964c-cd0e7f8c508f)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/769b2c1a-2a01-40d7-9af1-bc25435b6960)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/692b97ca-5831-4655-a907-0bd75d8c1811)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/5cf2e74a-ae09-4324-873a-39b0b656b189)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/41e92e67-1041-476a-a825-731abc772901)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/2b55a79f-8b59-41fc-b481-9435469650d6)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/75cea0ca-311a-408d-814c-1e74520d88dd)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/6877b9bd-12b2-4992-bc9b-50d8024c4b40)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/a1cf7527-832d-4001-8690-4a6f570eb2e1)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/0e70a017-1cba-4c54-befb-937663502fa6)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/411e6ecc-5b17-448e-a6f0-0a5c2ae15b54)
+
+### Задание 2
+Установите Zabbix Agent на два хоста.
+
+Процесс выполнения:
+1. Установите Zabbix Agent на 2 вирт.машины, одной из них может быть ваш Zabbix Server.
+2. Добавьте Zabbix Server в список разрешенных серверов ваших Zabbix Agentов.
+3. Добавьте Zabbix Agentов в раздел Configuration > Hosts вашего Zabbix Servera.
+4. Проверьте, что в разделе Latest Data начали появляться данные с добавленных агентов.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
