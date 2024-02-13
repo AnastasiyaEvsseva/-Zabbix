@@ -30,6 +30,27 @@
 2. Добавьте Zabbix Server в список разрешенных серверов ваших Zabbix Agentов.
 3. Добавьте Zabbix Agentов в раздел Configuration > Hosts вашего Zabbix Servera.
 4. Проверьте, что в разделе Latest Data начали появляться данные с добавленных агентов.
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/6aa3a0da-1f29-42f0-9b6b-799b484e59fc)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/1e3762ec-baa9-4ba3-926f-801675d4d64f)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/6df3f33e-c2a0-4565-9caf-f85d6d2e5739)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/9783f90f-5111-450b-a0d4-5da5cc4769cc)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/770c72f1-ce47-4446-8993-5929767864f3)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/005a0946-e9c1-413c-98c7-d659b29cf5fd)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/5221e66f-107e-4f4b-98e8-eca5519d1e19)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/4e2e3175-2cf9-4379-b223-27bd0c18a3e8)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/65715fbe-d238-4daf-8c19-4d9fbd8dd3aa)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/c458503b-fc76-41da-a6cc-66e3dedbdbae)
+![image](https://github.com/AnastasiyaEvsseva/-Zabbix/assets/151757353/8cca3c45-9599-4e15-864e-13488c0779be)
+
+
+
+
+
+
+
+
+
+
 
 
 
